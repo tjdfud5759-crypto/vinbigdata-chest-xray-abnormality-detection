@@ -1,0 +1,2 @@
+model,training_labels,evaluation_labels,image_size,precision,recall,mAP50,mAP50_95
+YOLOv8s Improvement,Consensus,Consensus,640,0.3537,0.3241,0.2992,0.1481
